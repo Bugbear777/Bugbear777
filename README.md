@@ -1,16 +1,38 @@
-## Hi there 👋
+# Joseph Marlow
 
-<!--
-**Bugbear777/Bugbear777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer and Software Engineering student currently working at LVM Systems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about software development and building web applications and APIs. I am currently pursuing a Bachelor's degree in Software Engineering through BYU Pathway Worldwide while working as a Junior Software Developer.
+
+## Skills
+
+- JavaScript
+- Node.js
+- Express
+- MongoDB
+- SQL
+- C#
+- Git
+- GitHub
+- REST APIs
+- Web Development
+
+## Projects
+
+### Contacts REST API
+A RESTful API built with Node.js, Express, and MongoDB that supports full CRUD operations for managing contacts.
+
+Features:
+- Create contacts
+- Retrieve contacts
+- Update contacts
+- Delete contacts
+- API documentation using Swagger
+
+GitHub: https://github.com/Bugbear777
+
+## Technologies
+
+Node.js • Express • MongoDB • Git • GitHub • JavaScript • C#
